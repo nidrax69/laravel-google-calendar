@@ -1,11 +1,10 @@
 # Manage events on a Google Calendar
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/spatie/laravel-google-calendar.svg?style=flat-square)](https://packagist.org/packages/spatie/laravel-google-calendar)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/ovitor/laravel-google-calendar.svg?style=flat-square)](https://packagist.org/packages/ovitor/laravel-google-calendar)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/spatie/laravel-google-calendar/run-tests?label=tests)
 [![Quality Score](https://img.shields.io/scrutinizer/g/spatie/laravel-google-calendar.svg?style=flat-square)](https://scrutinizer-ci.com/g/spatie/laravel-google-calendar)
 [![StyleCI](https://styleci.io/repos/58305903/shield?branch=master)](https://styleci.io/repos/58305903)
-[![Total Downloads](https://img.shields.io/packagist/dt/spatie/laravel-google-calendar.svg?style=flat-square)](https://packagist.org/packages/spatie/laravel-google-calendar)
+[![Total Downloads](https://img.shields.io/packagist/dt/ovitor/laravel-google-calendar.svg?style=flat-square)](https://packagist.org/packages/ovitor/laravel-google-calendar)
 
 ### note about this fork
 
