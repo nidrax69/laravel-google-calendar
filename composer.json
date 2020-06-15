@@ -13,14 +13,14 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Freek Van der Herten",
-            "email": "freek@spatie.be",
-            "homepage": "https://spatie.be",
+            "name": "Vitor Carvalho",
+            "email": "vcml@pm.me",
             "role": "Developer"
         },
         {
-            "name": "Vitor Carvalho",
-            "email": "vcml@pm.me",
+            "name": "Freek Van der Herten",
+            "email": "freek@spatie.be",
+            "homepage": "https://spatie.be",
             "role": "Developer"
         }
     ],
