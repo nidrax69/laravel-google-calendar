@@ -1,5 +1,5 @@
 {
-    "name": "spatie/laravel-google-calendar",
+    "name": "ovitor/laravel-google-calendar",
     "description": "Manage events on a Google Calendar",
     "keywords": [
         "spatie",
@@ -9,13 +9,18 @@
         "schedule",
         "laravel-google-calendar"
     ],
-    "homepage": "https://github.com/spatie/laravel-google-calendar",
+    "homepage": "https://github.com/ovitor/laravel-google-calendar",
     "license": "MIT",
     "authors": [
         {
             "name": "Freek Van der Herten",
             "email": "freek@spatie.be",
             "homepage": "https://spatie.be",
+            "role": "Developer"
+        },
+        {
+            "name": "Vitor Carvalho",
+            "email": "vcml@pm.me",
             "role": "Developer"
         }
     ],
