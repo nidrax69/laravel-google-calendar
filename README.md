@@ -8,9 +8,8 @@
 
 ### note about this fork
 
-This package is a simple fork that add enables delegated domain-wide with
-impersonate user account (good for those who use GSuite Apps). If you don't
-need this functionallity, please, go to
+This package is a simple fork that allow to pass option parameters to the update method of the GoogleCalendar Event. It allow to enable notifications on update for example.
+ If you don't need this functionallity, please, go to
 [spatie/laravel-google-calendar](https://github.com/spatie/laravel-google-calendar).
 
 This package makes working with a Google Calendar a breeze. Once it has been set up you can do these things:
