@@ -1,5 +1,5 @@
 {
-    "name": "remy-norbert/laravel-google-calendar-with-update-notifications",
+    "name": "baremo/laravel-google-calendar-with-update-notifications",
     "description": "Manage events on a Google Calendar, with update notifications",
     "keywords": [
         "spatie",
