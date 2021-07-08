@@ -85,6 +85,7 @@ class GoogleCalendar
 
     public function updateEvent($event, $optParams = []): Google_Service_Calendar_Event
     {
+        error_log(json_encode($optParams));
         if ($event instanceof Event) {
             $event = $event->googleEvent;
         }
